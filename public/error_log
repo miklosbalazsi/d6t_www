@@ -1,0 +1,2 @@
+[09-Mar-2019 17:24:42 UTC] PHP Fatal error:  Cannot declare class App\Controller\site because the name is already in use in /home/vigvamhu/public_html/d6t/src/Controller/site.php on line 8
+[09-Mar-2019 17:27:26 UTC] PHP Fatal error:  Cannot declare class App\Controller\site because the name is already in use in /home/vigvamhu/public_html/d6t/src/Controller/site.php on line 7

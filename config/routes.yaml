@@ -1,0 +1,10 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+site_list:
+  path: /d6t/site
+  controller: App\Controller\siteController::list
+  
+site_show:
+  path: /d6t/site/{name}
+  controller: App\Controller\siteController::show
